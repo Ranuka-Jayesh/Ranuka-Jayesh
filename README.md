@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋 I'm Ranuka Jayesh
 
-<!--
-**Ranuka-Jayesh/Ranuka-Jayesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Founder of OGO Technology  
+🤖 AI & Software Engineer  
+🌍 Building scalable tech solutions from Sri Lanka  
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+- TypeScript, JavaScript, C#
+- React, Node.js
+- REST APIs, System Automation
+- FinTech & Management Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Interests:
+AI • FinTech • SaaS • System Design • Innovation
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/mr-ranuka-jayesh-474b29217/
